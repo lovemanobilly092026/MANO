@@ -1,0 +1,6 @@
+{
+  "name": "Muskan - A Magical Birthday Surprise",
+  "description": "A cute, romantic, and magical digital birthday surprise website dedicated to Muskan, created with love by Mano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
